@@ -1,4 +1,4 @@
-getgenv().gglock = {
+getgenv().NemesisPreBeta = {
     ["Settings"] = {
         Disabling = {Toggle = false, Keybind = "H"},
         UpdateTickDelay = 0.05
